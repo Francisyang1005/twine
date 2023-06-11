@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Relax Moments After Taking Exam</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to Relax Moments After Taking Exam</h1>
+  <p>Experience the tranquility and joy after completing your exams.</p>
+  <p>Click the button below to start your relaxing journey.</p>
+  <a href="game.html" class="button">Start the Game</a>
+</body>
+</html>
